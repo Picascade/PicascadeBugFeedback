@@ -1,6 +1,6 @@
-# PicascadeBugFeedback
+# Picascade Bug Feedback
 
-Welcome to the PicascadeBug Feedback GitHub Repository!
+Welcome to the Picascade Bug Feedback GitHub Repository!
 
 ## How to report a Bug in Picascade?
 
