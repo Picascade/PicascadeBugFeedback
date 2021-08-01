@@ -13,4 +13,4 @@ Welcome to the Picascade Bug Feedback GitHub Repository!
 ### 3. Briefly Explain the Bug and How Did the Bug Appear
 <img src="./editissue.png" />
 
-### 4. Click `Submit new issue`
+### 4. Click `Submit new issue` and the Developers in Picascade will follow it up ASAP
